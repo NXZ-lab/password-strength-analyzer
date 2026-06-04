@@ -1,5 +1,4 @@
-# password-strength-analyzer
-cybersecurity projects
+
 # Password Strength Analyzer
 
 <div align="center">
@@ -343,4 +342,5 @@ This project is provided for educational and portfolio use. Update the license s
 Built with security-first design, modern TypeScript tooling, and full-stack best practices.
 
 </div>
+
 
