@@ -1,0 +1,15 @@
+node_modules
+.env
+.env.*
+!.env.example
+dist
+coverage
+.vite
+.vercel
+.render
+*.log
+.DS_Store
+frontend/node_modules
+backend/node_modules
+frontend/dist
+backend/dist
