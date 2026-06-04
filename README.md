@@ -1,7 +1,4 @@
-<<<<<<< Updated upstream
-# password-strength-analyzer
-cybersecurity projects
-=======
+
 # Password Strength Analyzer
 
 <div align="center">
@@ -346,4 +343,4 @@ Built with security-first design, modern TypeScript tooling, and full-stack best
 
 </div>
 
->>>>>>> Stashed changes
+
